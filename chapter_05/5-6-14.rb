@@ -3,5 +3,5 @@ names = ["aya", "achi", "Tama"]
 result = names.each do |name|
   name.downcase!
 end
-p result
+p result.sort
 
