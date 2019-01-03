@@ -11,13 +11,14 @@ def price(item:, size:)
   end
 
   if size == "ショート"
-    puts item_price
+    item_price
   elsif size == "トール"
-    puts item_price + 50
+    item_price + 50
   elsif size == "ベンティ"
-    puts item_price + 100
+    item_price + 100
   end
 end
 
-price(item: "コーヒー", size: "ベンティ")
-price(item: "カフェラテ", size: "トール")
+puts price(item: "コーヒー", size: "ベンティ")
+puts price(item: "カフェラテ", size: "トール")
+

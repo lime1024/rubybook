@@ -3,11 +3,11 @@
 # "カフェラテ"のときは 400 を戻り値として返す
 def price(item:)
   if item == "コーヒー"
-    puts 300
+    300
   elsif item == "カフェラテ"
-    puts 400
+    400
   end
 end
 
-price(item: "コーヒー")
-price(item: "カフェラテ")
+puts price(item: "コーヒー")
+puts price(item: "カフェラテ")
