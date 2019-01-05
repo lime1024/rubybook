@@ -8,9 +8,8 @@
 # order
 
 def order
-  drink = "コーヒー"
+  drink = 'コーヒー'
   puts "#{drink}をください"
 end
 
 order
-

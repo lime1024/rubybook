@@ -6,7 +6,7 @@ def dice
   result = numbers.sample
 
   if result == 1
-    puts "もう 1 回"
+    puts 'もう 1 回'
     result = numbers.sample
   else
     result
@@ -14,4 +14,3 @@ def dice
 end
 
 puts dice
-

@@ -4,4 +4,3 @@ a.each do |x|
   sum += x
 end
 puts sum
-

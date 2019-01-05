@@ -1,4 +1,3 @@
-menus = ["カフェラテ", "モカ", "コーヒー", "エスプレッソ"]
-ordered = ["エスプレッソ", "カフェラテ"]
+menus = %w[カフェラテ モカ コーヒー エスプレッソ]
+ordered = %w[エスプレッソ カフェラテ]
 p not_ordered = menus - ordered
-

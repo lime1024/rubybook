@@ -5,4 +5,3 @@ def dice
 end
 
 puts dice
-

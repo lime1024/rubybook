@@ -3,4 +3,3 @@ def area
 end
 
 area
-

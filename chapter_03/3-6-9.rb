@@ -6,14 +6,13 @@
 # モカ
 # モカ
 # フラペチーノ
-caffelatte = "カフェラテ"
-moca = "モカ"
-frappuccino = "フラペチーノ"
+caffelatte = 'カフェラテ'
+moca = 'モカ'
+frappuccino = 'フラペチーノ'
 
 2.times do
   puts caffelatte
-  2.times { puts moca } 
+  2.times { puts moca }
 end
 
 puts frappuccino
-

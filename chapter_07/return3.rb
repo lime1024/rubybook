@@ -1,10 +1,8 @@
 def thanks_and_receipt(receipt)
-  puts "ありがとうございました。"
-  unless receipt
-    return
-  end
-  puts "こちら、レシートになります。"
+  puts 'ありがとうございました。'
+  return unless receipt
+
+  puts 'こちら、レシートになります。'
 end
 
 thanks_and_receipt(false)
-

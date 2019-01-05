@@ -1,3 +1,2 @@
-order = "カフェラテ"
+order = 'カフェラテ'
 puts order
-

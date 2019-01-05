@@ -1,10 +1,9 @@
-drinks = ["コーヒー"]
-drinks.push("カフェラテ")
+drinks = ['コーヒー']
+drinks.push('カフェラテ')
 p drinks
 
-drinks.unshift("モカ")
+drinks.unshift('モカ')
 p drinks
 
-drinks << "ティーラテ"
+drinks << 'ティーラテ'
 p drinks
-

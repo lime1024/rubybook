@@ -1,8 +1,3 @@
 x = false
-unless x
-  puts "unless : x は false です"
-end
-if !x
-  puts "if : x は false です"
-end
-
+puts 'unless : x は false です' unless x
+puts 'if : x は false です' unless x

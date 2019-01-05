@@ -1,5 +1,4 @@
-drinks = ["コーヒー", "カフェラテ"]
+drinks = %w[コーヒー カフェラテ]
 drinks.each do |drink|
   puts drink
 end
-

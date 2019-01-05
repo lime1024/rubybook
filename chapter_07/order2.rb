@@ -1,8 +1,7 @@
-def order(item = "コーヒー")
+def order(item = 'コーヒー')
   "#{item}をください"
 end
 
 puts order
-puts order("カフェラテ")
-puts order("モカ")
-
+puts order('カフェラテ')
+puts order('モカ')
