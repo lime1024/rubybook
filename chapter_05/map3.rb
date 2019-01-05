@@ -1,5 +1,2 @@
-result = ["abc", "123"].map do |text|
-  text.reverse
-end
+result = %w[abc 123].map(&:reverse)
 p result
-

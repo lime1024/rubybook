@@ -1,5 +1,4 @@
-Caffelatte = "カフェラテ"
+Caffelatte = 'カフェラテ'.freeze
 puts Caffelatte
-Caffelatte = "カフェラッテ"
+Caffelatte = 'カフェラッテ'.freeze
 puts Caffelatte
-

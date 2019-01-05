@@ -4,4 +4,3 @@ end
 
 result = area
 puts result
-

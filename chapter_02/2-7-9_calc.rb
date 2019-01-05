@@ -6,4 +6,3 @@
 # => 2-7-9_calc.rb:4:in `<main>': undefined local variable or method `t' for main:Object (NameError)
 total = 300 * 2
 puts total
-

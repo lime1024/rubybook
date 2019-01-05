@@ -1,3 +1,2 @@
-p "abc".reverse
-p "とくれせんたぼーび".reverse
-
+p 'abc'.reverse
+p 'とくれせんたぼーび'.reverse

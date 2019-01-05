@@ -1,3 +1,2 @@
-result = ["abc", "123"].map(&:reverse)
+result = %w[abc 123].map(&:reverse)
 p result
-

@@ -1,2 +1,1 @@
-puts "abc"
-
+puts 'abc'

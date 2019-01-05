@@ -1,5 +1,2 @@
 wallet = 100
-if wallet >= 300
-  puts "コンビニでアイスを買っていこう！"
-end
-
+puts 'コンビニでアイスを買っていこう！' if wallet >= 300

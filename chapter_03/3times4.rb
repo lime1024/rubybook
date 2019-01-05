@@ -1,6 +1,5 @@
 3.times do
-  puts "モカ"
-  puts "ください"
+  puts 'モカ'
+  puts 'ください'
 end
-3.times { puts "カフェラテください" }
-
+3.times { puts 'カフェラテください' }

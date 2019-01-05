@@ -1,4 +1,3 @@
-puts "ruby" == "ruby"
-puts "ruby" != "ruby"
-puts "ruby" == "xxx"
-
+puts 'ruby' == 'ruby'
+puts 'ruby' != 'ruby'
+puts 'ruby' == 'xxx'

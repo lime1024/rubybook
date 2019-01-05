@@ -3,7 +3,6 @@
 numbers = []
 sum = 0
 numbers.each do |number|
-  sum = sum + number
+  sum += number
 end
 puts sum
-

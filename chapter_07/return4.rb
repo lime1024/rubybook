@@ -1,11 +1,9 @@
 def thanks_and_receipt(receipt)
-  greeting =  "ありがとうございました。"
-  unless receipt
-    return greeting
-  end
-  greeting + "こちら、レシートになります。"
+  greeting = 'ありがとうございました。'
+  return greeting unless receipt
+
+  greeting + 'こちら、レシートになります。'
 end
 
 puts thanks_and_receipt(true)
 puts thanks_and_receipt(false)
-

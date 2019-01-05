@@ -1,4 +1,3 @@
 3.times do
-  puts "カフェラテ"
+  puts 'カフェラテ'
 end
-

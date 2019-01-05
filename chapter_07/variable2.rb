@@ -1,7 +1,6 @@
 def hello
-  text = "こんにちは"
+  text = 'こんにちは'
 end
 
 hello
 p text
-

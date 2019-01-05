@@ -1,4 +1,3 @@
-drinks = ["コーヒー", "カフェラテ"]
+drinks = %w[コーヒー カフェラテ]
 puts drinks[0]
 puts drinks[1]
-

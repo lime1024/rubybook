@@ -1,8 +1,7 @@
 def thanks_and_receipt
-  puts "ありがとうございました。"
+  puts 'ありがとうございました。'
   return
-  puts "こちら、レシートになります。"
+  puts 'こちら、レシートになります。'
 end
 
 thanks_and_receipt
-

@@ -3,4 +3,3 @@ def area(x)
 end
 
 puts area(3)
-

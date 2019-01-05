@@ -1,4 +1,3 @@
-drinks = ["コーヒー", "カフェラテ"]
+drinks = %w[コーヒー カフェラテ]
 p drinks.first
-p ["コーヒー", "カフェラテ"].first
-
+p %w[コーヒー カフェラテ].first
