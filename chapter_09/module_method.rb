@@ -3,4 +3,3 @@ module WhippedCream
     "トッピング用のホイップクリーム"
   end
 end
-puts WhippedCream.info
