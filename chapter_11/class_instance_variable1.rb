@@ -1,0 +1,11 @@
+class Drink
+  def name
+    @name = "カフェラテ"
+  end
+  def self.name
+    @name
+end
+
+drink = Drink.new
+drink.name
+p Drink.name
